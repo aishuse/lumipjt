@@ -1,0 +1,21 @@
+h1{
+    color:#1877f2;
+    text-align: center;
+    
+
+}
+
+body{
+    background: #f0f2f5;
+}
+
+#hone{
+    color:hsl(195, 87%, 41%)
+}
+
+.btn{
+    background-color: #5e068a;
+    color:white;
+    width: 40;
+    height: 90;
+}
