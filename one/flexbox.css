@@ -1,0 +1,38 @@
+.row{
+    /* width: 70%;
+    height: 400px; */
+    background-color: rgb(233, 227, 240);
+    display: flex;
+    /* justify-content: space-evenly;
+    align-items: center; */
+
+}
+
+.col{
+    width: 200px;
+    height: 200px;
+    
+}
+
+.col:nth-child(1)
+{
+    flex: 1;
+    background-color:brown
+}
+
+.col:nth-child(2)
+{
+    flex: 1;
+    background-color:rgb(49, 38, 38)
+}
+
+.col:nth-child(3)
+{
+    flex: 1;
+    background-color:rgb(126, 42, 165)
+}
+.col:nth-child(4)
+{
+    flex: 1;
+    background-color:rgb(97, 165, 42)
+}

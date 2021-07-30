@@ -1,0 +1,26 @@
+body{
+    height: 2000px;
+}
+
+
+.row1{
+    height: 100px;
+    width: 500px;
+    background-color: aquamarine;
+    position: fixed;
+    left: 75%;
+}
+
+.row2{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    position: sticky;
+    top: 6px;
+}
+
+.c1{
+    height: 100px;
+    width: 500px;
+    background-color: rgb(255, 127, 176);
+}
