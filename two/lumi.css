@@ -1,0 +1,28 @@
+.row{
+    width: 30%;
+    float: left;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+   min-height: 500px; 
+   margin-left: 10px;
+}
+
+
+.row img{
+width: 100%;
+}
+
+.row h3{
+    color: #5e068a;
+    padding: 20px;
+}
+
+.row p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    
+    line-height: 28px;
+    padding: 20px;
+}
+

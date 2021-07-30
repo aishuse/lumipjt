@@ -1,0 +1,48 @@
+.row{
+    width: 20%;
+    float: left;
+    border-width: 2px;
+    border-style: solid;
+    border-color:wheat;
+   height:600px; 
+   margin-left: 10px;
+   padding: 25px;
+   display: block;
+}
+
+p{
+    width: 100%;
+    text-align: left;
+}
+
+.row img{
+    width: 100%;
+    height: 50%;
+object-fit:contain;
+
+opacity: 1;
+}
+
+
+.row:hover img{
+    
+   
+    opacity: 1;
+    transform: scaleX(-1);
+}
+
+
+.row h3{
+    color: #5e068a;
+    padding: 20px;
+    
+}
+
+.row p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    
+    line-height: 25px;
+    padding: 20px;
+}
+
