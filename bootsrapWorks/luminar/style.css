@@ -1,0 +1,56 @@
+.nav-item a{
+
+font-size: 14px;
+font-weight: 500;
+color: #2d3e50 !important;
+
+}
+
+.nav-item a:hover{
+    color:#5e068a !important
+}
+
+.carousel-item img{
+    height: 400px;
+}
+
+.container h3{
+    color: #5e068a;
+font-weight: 580px;
+font-size: 32px;
+
+}
+
+.container p{
+    line-height: 32px;
+    font-size: 16px;
+}
+
+.container span{
+    color:#5e068a99;
+}
+
+.container .bt{
+    padding: 16px 27px;
+    font-weight: 600;
+    margin-top: 21px;
+    border-radius: 50px;
+    border: 2px solid white;
+    background-color:#5e068a ;
+    color: white;
+}
+
+.container .bt:hover{
+    background-color: white;
+    color:#5e068a ;
+    border: 2px solid #5e068a;
+}
+
+.container .card a{
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #5e068a;
+    padding: 12px 20px;
+    color: #fff;
+    text-decoration: none;
+}

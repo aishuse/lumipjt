@@ -1,0 +1,50 @@
+/* *{
+    box-sizing: border-box;
+} */
+body{
+    border: solid black 1px;
+    margin: 20px;
+    line-height: 25px;
+
+}
+
+.obj,.head{
+
+    margin: 15px;
+    color: black;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+   
+.head{
+    margin-top: 60px;
+}
+
+#email{
+    text-decoration: underline;
+}
+
+h3{
+    border: black 1px solid;
+    color: rgb(48, 45, 41);
+    background-color: rgb(168, 175, 189);
+    padding-left: 5px;
+}
+
+table,th,td{
+    border: black 1px solid;
+    border-collapse: collapse;
+    font-size: 14px;
+    font-family: serif;
+    padding: 5px;
+    
+}
+
+#decl{
+float: right;
+margin-right: 15px;
+}
